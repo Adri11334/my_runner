@@ -1,0 +1,29 @@
+MUST (9.5 / 10)
+[V] • The window must be closed using events.
+[V] • The program must manage the input from the keyboard.
+[V] • The program must contain animated sprites rendered thanks to sprite sheets.
+[V] • The program must contain moving (rotating, translating, or scaling) elements.
+[V] • The program background must include a parallax scrolling with at least 3 objects moving at different speeds.
+[V] • The program must take a file in argument which will contain the map of your current game.
+[V] • The program must display a score which is update regularly during the game.
+[V] • The program must have an end whether it is a victory or a defeat.
+[V] • The program must handle basic game physics (jumping / falling / hitting a wall).
+[V] • The program must have at least one music and one sound effect.
+
+SHOULD (7 / 7)
+[V] • The program should have randomly spawning enemies.
+[V] • Animations and movements in your program should not depend on the speed of your computer.
+[V] • Animations and movements in your program should be timed by sfClock elements.
+[V] • Your window should stick between 800x600 pixels and 1920x1080 pixels.
+[V] • Your window should have a limited frame rate such that it can be compute without lagging.
+[V] • The program should accept the “-h” option, then display usage of the program.
+[V] • Possible user interactions should be explicitly explained in a usage.
+
+COULD (3.9 / 7)
+[V] • The program could have several different levels.
+[V] • The program could have a main menu.
+[X] • The program could have a pause menu.
+[V-] • The program could store the highest score made.
+[V] • The program could have an infinite mode where you generate randomly the map till the player dies.
+[X] • The program could let the user customize its character.
+[X] • The program could have bonus / malus which gives / removes points or advantages to the player.

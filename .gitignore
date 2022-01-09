@@ -1,0 +1,6 @@
+*.gcno
+*.gcda
+*.a
+*.o
+my_runner
+vgcore.*
