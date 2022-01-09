@@ -5,6 +5,19 @@
 # My Runner
 #### Who said Geometry Dash ?
 
+### Coding Style
+- style mark: 0<br>
+- style major: ?
+- style minor: ?
+- style info: ?
+<br>
+
+### Note : 100%
+- 01: 2/2
+
+### Coverage: 0%
+<br>
+
 ### Content
 **binary name**: my_runner<br>
 **language**: C<br>
@@ -85,26 +98,24 @@ speeds.
 * The program could let the user customize its character.
 * The program could have bonus / malus which gives / removes points or advantages to the player.
 
+### Repo project
+**To see what was done, check the .todo**
+![Help](/assets/img/help_cmd.png)
+
+![in game example](/assets/img/in_game.png)
+
 ## Contributors
 Team Leader [VERMERSCH Adrien](https://github.com/Adri11334)
 
-## Git Commit Emoji
+<br><br>
 
-|   Commit type              | Emoji                                         |
-|:---------------------------|:----------------------------------------------|
-| Initial commit             | :tada: `:tada:`                               |
-| New feature                | :sparkles: `:sparkles:`                       |
-| Bugfix                     | :bug: `:bug:`                                 |
-| Performance                | :racehorse: `:racehorse:`                     |
-| Cosmetic                   | :lipstick: `:lipstick:`                       |
-| Tests                      | :rotating_light: `:rotating_light:`           |
-| General update             | :zap: `:zap:`                                 |
-| Improve format/structure   | :art: `:art:`                                 |
-| Refactor code              | :hammer: `:hammer:`                           |
-| Removing code/files        | :fire: `:fire:`                               |
-| Critical hotfix            | :ambulance: `:ambulance:`                     |
-| Deploying stuff            | :rocket: `:rocket:`                           |
-| Work in progress           | :construction:  `:construction:`              |
-| Merging branches           | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` |
-| Bad code / need improv.    | :hankey: `:hankey:`                           |
-| Move/rename repository     | :truck: `:truck:`                             |
+>- **Student:** Adrien VERMERSCH
+>-  **Email:** adrien.vermersch@epitech.eu
+>- **Year:** 2021x2022
+>- **Promotion:** 2026
+>- **Campus:** Bordeaux
+
+Code rédigé selon la norme Epitech (promo 2026).<br><br>
+Recopier ce repo revient au vol de code.<br>
+Autrement dit, -42<br><br>
+
