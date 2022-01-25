@@ -7,9 +7,9 @@
 
 ### Coding Style
 - style mark: 0<br>
-- style major: ?
-- style minor: ?
-- style info: ?
+- style major: 0
+- style minor: 0
+- style info: 0
 <br>
 
 ### Note : 100%
